@@ -37,12 +37,12 @@ Follow [EXECUTION_GUIDE.md](EXECUTION_GUIDE.md) for the complete Colab procedure
 
 Add the final published links here after completing the articles and videos:
 
-- CRISP-DM Medium article: `[Add Medium article URL here]`
-- CRISP-DM YouTube walkthrough: `[Add YouTube URL here]`
-- SEMMA Medium article: `[Add Medium article URL here]`
-- SEMMA YouTube walkthrough: `[Add YouTube URL here]`
-- KDD Medium article: `[Add Medium article URL here]`
-- KDD YouTube walkthrough: `[Add YouTube URL here]`
+- CRISP-DM Medium article: https://medium.com/@vedantikanade/what-i-learned-building-a-hospital-readmission-model-with-crisp-dm-3e48c306ca0a
+- CRISP-DM YouTube walkthrough: 
+- SEMMA Medium article: https://medium.com/@vedantikanade/what-i-learned-using-semma-to-classify-heart-disease-10f10a362720
+- SEMMA YouTube walkthrough: 
+- KDD Medium article: (https://medium.com/@vedantikanade/finding-patterns-in-chronic-kidney-disease-data-with-the-kdd-process-ebc2d7958a70)
+- KDD YouTube walkthrough: 
 
 ## Responsible-use note
 
